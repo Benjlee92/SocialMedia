@@ -7,3 +7,5 @@
 //
 
 import Foundation
+
+let KEY_UID = "uid"
